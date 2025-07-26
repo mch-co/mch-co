@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-Développeur curieux et passionné, je code avec envie et sans arrêt ! Web, mobile, backend, frontend, algo — j'aime toucher à tout, surtout quand c'est un défi.
+Curious and passionate developer, I code with enthusiasm and non-stop! Web, mobile, backend, frontend, algorithms — I love exploring everything, especially when it's a challenge.
 
-- 💻 **Spécialités** : Next.js, Prisma, PostgreSQL, MySQL
-- 🌱 **Actuellement** : J'apprends, je crée, je casse, je recommence
-- 🎯 **Objectif** : Construire des apps utiles, claires, performantes
+- 💻 **Specialties**: Next.js, Prisma, PostgreSQL, MySQL
+- 🌱 **Currently**: Learning, creating, breaking, starting over
+- 🎯 **Goal**: Build useful, clear, high-performance apps
 - 📫 **Contact** : manchourtchadjobo@gmail.com
-- ⚡ **Fun fact** : Ma stack préférée ? Une bonne doc, un bug bien caché… et beaucoup de café ☕
+- ⚡ **Fun fact**: My favorite stack? Good docs, a well-hidden bug... and lots of coffee ☕
 
 ---
 
