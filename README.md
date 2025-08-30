@@ -86,11 +86,7 @@ Curious and passionate developer, I code with enthusiasm and non-stop! Web, mobi
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mch-co&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</div>
 
 ---
 
