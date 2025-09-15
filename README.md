@@ -1,11 +1,12 @@
 # 🔥 Mch-co
 
 **``Tech Artisan (Developer/Engineer/Creative)``**
+<p align="center"> Étudiant genie logiciel et systhème d'information | Fulstack Intèrmediaire</p>
 
 
 **Contact me** : manchourtchadjobo@gmail.com
 
-Hey everyone! 👋 As a junior developer, I'm pumped to be here! Algorithms, web, mobile dev – you name it, I'm ready to dive in and conquer. Let's tackle challenges, craft elegant solutions, and push boundaries together! 🚀💻📱
+Hey everyone! I'm pumped to be here! Algorithms, web, mobile dev – you name it, I'm ready to dive in and conquer. Let's tackle challenges, craft elegant solutions, and push boundaries together! 🚀💻📱
 
 <p align="center">
   <a href="https://github.com/mch-co?tab=repositories&sort=stargazers">
@@ -20,7 +21,7 @@ Hey everyone! 👋 As a junior developer, I'm pumped to be here! Algorithms, web
 
 ![mch-co's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mch-co&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mch-co&theme=catppuccin-mocha&hide_border=true&border_radius=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=mch-co&theme=catppuccin-mocha&hide_border=true&border_radius=6)
 
 
 
