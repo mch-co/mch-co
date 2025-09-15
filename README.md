@@ -19,9 +19,7 @@ Hey everyone! I'm pumped to be here! Algorithms, web, mobile dev – you name it
  
 ## 📊 Stats
 
-![mch-co's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mch-co&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mch-co&theme=catppuccin-mocha&hide_border=true&border_radius=6)
+![mch-co's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mch-co&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs) ![GitHub Streak](https://streak-stats.demolab.com?user=mch-co&theme=catppuccin-mocha&hide_border=true&border_radius=6)
 
 
 
